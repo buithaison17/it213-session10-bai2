@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: bai2
+langfuse:
+  public-key: ${LANGFUSE_PUBLIC_KEY:pk-lf-default-key}
+  secret-key: ${LANGFUSE_SECRET_KEY:sk-lf-default-key}
+  base-url: ${LANGFUSE_BASE_URL:https://cloud.langfuse.com}
+  enabled: true
