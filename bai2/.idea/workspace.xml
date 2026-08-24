@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1428971c-940f-46cc-a2cc-fb23c99a4fe7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001044567615" />
+      <entry key="S2" value="1.0279186400615528" />
+      <entry key="S5" value="1.3594706167249169" />
+      <entry key="S10" value="1.8468121353093951" />
+      <entry key="S30" value="2.504959743841906" />
+      <entry key="S60" value="2.8440078779027047" />
+      <entry key="M2" value="3.546258660641688" />
+      <entry key="M5" value="5.140210844470043" />
+      <entry key="M10" value="6.269120306331669" />
+      <entry key="M15" value="6.765029673103218" />
+      <entry key="M30" value="7.337691865565725" />
+      <entry key="H1" value="7.656749615302317" />
+      <entry key="H2" value="7.825231280031551" />
+      <entry key="H4" value="7.911814286327249" />
+      <entry key="D1" value="7.98518974276158" />
+      <entry key="W1" value="7.997881472836734" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.2992165123527446E-151" />
+      <entry key="MS500" value="7.452740059659251E-31" />
+      <entry key="S2" value="2.9381840276113004E-8" />
+      <entry key="S5" value="9.71176261767341E-4" />
+      <entry key="S10" value="0.0318415107576637" />
+      <entry key="S30" value="0.5299793842811533" />
+      <entry key="S60" value="1.6555509996447222" />
+      <entry key="M2" value="3.8987427398937338" />
+      <entry key="M5" value="7.906715381739687" />
+      <entry key="M10" value="10.415402172394444" />
+      <entry key="M15" value="11.46910584795723" />
+      <entry key="M30" value="12.657586863218235" />
+      <entry key="H1" value="13.30824772162527" />
+      <entry key="H2" value="13.648814289792895" />
+      <entry key="H4" value="13.823057442293562" />
+      <entry key="D1" value="13.970320189562926" />
+      <entry key="W1" value="13.995755363775812" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.05219299496427308" />
+      <entry key="MS500" value="0.5540162197612573" />
+      <entry key="S2" value="0.8853090549320088" />
+      <entry key="S5" value="1.2732794453009133" />
+      <entry key="S10" value="1.809872873980984" />
+      <entry key="S30" value="2.982079132293469" />
+      <entry key="S60" value="4.446461330804963" />
+      <entry key="M2" value="7.386635601592708" />
+      <entry key="M5" value="12.996961518907643" />
+      <entry key="M10" value="16.650546475928923" />
+      <entry key="M15" value="18.208896786865104" />
+      <entry key="M30" value="19.98117889056368" />
+      <entry key="H1" value="20.95753785401" />
+      <entry key="H2" value="21.470208070790388" />
+      <entry key="H4" value="21.7329253396309" />
+      <entry key="D1" value="21.955181634512062" />
+      <entry key="W1" value="21.99358984062056" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3IMAHJdjkCGd7PqonHZWsDGkOYP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Bai2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="bai2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bai2.Bai2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1428971c-940f-46cc-a2cc-fb23c99a4fe7" name="Changes" comment="" />
+      <created>1787563981485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787563981485</updated>
+      <workItem from="1787563998559" duration="963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
